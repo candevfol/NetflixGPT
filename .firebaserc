@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "netflix-20b3b",
+    "deploying": "netflix-20b3b"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
